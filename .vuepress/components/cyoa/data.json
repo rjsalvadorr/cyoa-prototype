@@ -1,0 +1,51 @@
+{
+  "snippets": [
+    {
+      "id": 1,
+      "title": "Release the glib globs",
+      "text": "Bacon ipsum dolor amet ground round reprehenderit dolore, nulla anim ham culpa veniam chuck commodo ball tip.\r\nHam shank laboris chicken eu ullamco.\r\nCow aliquip salami short ribs drumstick.\r\n\r\nPork chop dolore ipsum, qui shankle leberkas venison."
+    },
+    {
+      "id": 2,
+      "title": "",
+      "text": "Pork loin fatback et laborum tail. Commodo excepteur veniam chuck.\r\n\r\nNisi fatback reprehenderit ham hock, tempor ham ex aliqua capicola frankfurter brisket turducken bresaola.\r\n\r\nConsectetur cupidatat eiusmod ground round."
+    },
+    {
+      "id": 3,
+      "title": "",
+      "text": "In pork chop elit, dolore magna jowl turkey. Labore porchetta andouille pastrami, irure et turkey elit prosciutto.\r\n\r\nLaboris capicola t-bone consectetur, proident et in id ham frankfurter shankle turducken bacon. Chuck boudin tri-tip burgdoggen, tongue biltong ham hock anim salami ad."
+    },
+    {
+      "id": 4,
+      "title": null,
+      "text": "Nulla occaecat ham hock, tongue ea dolore short ribs voluptate. Leberkas rump short loin consectetur burgdoggen. Pork tri-tip adipisicing jerky pariatur sint. Beef ribs tongue cupidatat, dolore id cupim ea ham hock biltong shank. Tri-tip duis tongue salami reprehenderit shoulder labore. Qui proident aute salami."
+    },
+    {
+      "id": 5,
+      "title": "Yes, the pork strikes back",
+      "text": "Brisket culpa chuck, esse pancetta meatball sed fugiat et. Kevin id minim, capicola swine ball tip shank pig occaecat commodo dolore. Pork burgdoggen shank ea dolore tenderloin filet mignon jowl do aliquip leberkas.\r\n\r\nBoudin laboris pork chop kielbasa esse pariatur voluptate do. Tenderloin burgdoggen flank boudin est in ground round turkey in laboris strip steak prosciutto non ut alcatra. Ut pork chop eu cupidatat short loin andouille incididunt kielbasa ham hock buffalo ex sirloin voluptate ipsum mollit."
+    }
+  ],
+  "choices": [
+    {
+      "id": 1,
+      "links": [2, 3]
+    },
+    {
+      "id": 2,
+      "links": [1, 3]
+    },
+    {
+      "id": 3,
+      "links": [4]
+    },
+    {
+      "id": 4,
+      "links": [2, 3, 5]
+    },
+    {
+      "id": 5,
+      "links": [1]
+    }
+  ]
+}

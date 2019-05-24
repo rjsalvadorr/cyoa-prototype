@@ -1,12 +1,11 @@
 module.exports = {
-  title: 'Vuepress Starter',
-  description: 'Data for title/desc/navbar is in .vuepress/config.js',
+  title: 'CYOA prototype',
+  description: 'Choose your destiny',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Art', link: '/art/' },
       { text: 'Work', link: '/work/' },
-      { text: 'LinkedIn', link: 'https://www.linkedin.com', external: true },
     ]
   },
   head: [
