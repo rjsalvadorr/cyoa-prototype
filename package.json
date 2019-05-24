@@ -1,0 +1,30 @@
+{
+  "name": "cyoa-prototype",
+  "version": "2.0.0",
+  "description": "Vuepress quick starter",
+  "main": "index.js",
+  "scripts": {
+    "start": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjsalvadorr/cyoa-prototype.git"
+  },
+  "keywords": [],
+  "author": "rjsalvadorr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rjsalvadorr/cyoa-prototype/issues"
+  },
+  "homepage": "https://github.com/rjsalvadorr/cyoa-prototype#readme",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "luxon": "^1.13.0",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^7.1.0"
+  },
+  "devDependencies": {
+    "vuepress": "^0.14.11"
+  }
+}

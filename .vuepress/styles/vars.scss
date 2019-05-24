@@ -1,0 +1,39 @@
+////////////////////////////////////////////////////////////////////////////////
+///// GLOBAL DEFINITIONS
+
+$space-unit: 20px;
+$space-unit-half: $space-unit / 2;
+$border-radius: 4px;
+
+$palette-primary: #1a472a;
+$palette-secondary: #2a623d;
+$palette-dark: #222222;
+$palette-light1: #5d5d5d;
+$palette-light2: #cccccc;
+
+$link-normal: lighten($palette-primary, 5%);
+$link-active: lighten($link-normal, 10%);
+
+$z-index-header: 1000;
+$z-index-overlay: 10000;
+
+$box-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
+$box-shadow-up: 0 -3px 8px rgba(0, 0, 0, 0.5);
+$box-shadow-down: 0 3px 8px rgba(0, 0, 0, 0.5);
+
+////////////////////////////////////////////////////////////////////////////////
+///// SECTION-SPECIFIC DEFINITIONS
+
+$body-bg-color: $palette-light2;
+$body-color: $palette-dark;
+
+$header-bg-color: $palette-primary;
+$header-color: #eee;
+$expected-header-height: 100px;
+
+$footer-bg-color: $palette-primary;
+$footer-color: #eee;
+$expected-footer-height: 62px;
+
+$debug-bg-color: rgba(0, 0, 0, 0.8);
+$debug-color: #eee;
