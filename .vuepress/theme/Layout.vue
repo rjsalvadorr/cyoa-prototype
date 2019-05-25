@@ -25,6 +25,7 @@ import Header from "../components/Header.vue";
 import Footer from "../components/Footer.vue";
 import PostList from "../components/PostList.vue";
 import DebugPanel from "../components/DebugPanel.vue";
+import PageDisplay from "../components/PageDisplay.vue";
 
 export default {
   name: 'Layout',
@@ -84,7 +85,8 @@ export default {
     Header,
     Footer,
     PostList,
-    DebugPanel
+    DebugPanel,
+    PageDisplay,
   }
 }
 </script>
