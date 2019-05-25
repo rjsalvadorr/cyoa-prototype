@@ -8,17 +8,17 @@
     {
       "id": 2,
       "title": "",
-      "text": "Pork loin fatback et laborum tail. Commodo excepteur veniam chuck.\r\n\r\nNisi fatback reprehenderit ham hock, tempor ham ex aliqua capicola frankfurter brisket turducken bresaola.\r\n\r\nConsectetur cupidatat eiusmod ground round."
+      "text": "No glibs for pork loin fatback et laborum tail. Commodo excepteur veniam chuck.\r\n\r\nNisi fatback reprehenderit ham hock, tempor ham ex aliqua capicola frankfurter brisket turducken bresaola.\r\n\r\nConsectetur cupidatat eiusmod ground round."
     },
     {
       "id": 3,
-      "title": "",
-      "text": "In pork chop elit, dolore magna jowl turkey. Labore porchetta andouille pastrami, irure et turkey elit prosciutto.\r\n\r\nLaboris capicola t-bone consectetur, proident et in id ham frankfurter shankle turducken bacon. Chuck boudin tri-tip burgdoggen, tongue biltong ham hock anim salami ad."
+      "title": null,
+      "text": "Yes globs on chop elit, dolore magna jowl turkey. Labore porchetta andouille pastrami, irure et turkey elit prosciutto.\r\n\r\nLaboris capicola t-bone consectetur, proident et in id ham frankfurter shankle turducken bacon. Chuck boudin tri-tip burgdoggen, tongue biltong ham hock anim salami ad."
     },
     {
       "id": 4,
-      "title": null,
-      "text": "Nulla occaecat ham hock, tongue ea dolore short ribs voluptate. Leberkas rump short loin consectetur burgdoggen. Pork tri-tip adipisicing jerky pariatur sint. Beef ribs tongue cupidatat, dolore id cupim ea ham hock biltong shank. Tri-tip duis tongue salami reprehenderit shoulder labore. Qui proident aute salami."
+      "title": "",
+      "text": "But why?! Nulla occaecat ham hock, tongue ea dolore short ribs voluptate. Leberkas rump short loin consectetur burgdoggen. Pork tri-tip adipisicing jerky pariatur sint. Beef ribs tongue cupidatat, dolore id cupim ea ham hock biltong shank. Tri-tip duis tongue salami reprehenderit shoulder labore. Qui proident aute salami."
     },
     {
       "id": 5,
@@ -31,11 +31,11 @@
       "id": 1,
       "links": [
         {
-          "label": "goes to 2",
+          "label": "No glibs",
           "dest": 2
         },
         {
-          "label": "goes to 3",
+          "label": "Yes to the globs",
           "dest": 3
         }
       ]
@@ -44,11 +44,11 @@
       "id": 2,
       "links": [
         {
-          "label": "goes to one",
+          "label": "Release them again!",
           "dest": 1
         },
         {
-          "label": "goes to tree",
+          "label": "Glob glob glob",
           "dest": 3
         }
       ]
@@ -57,7 +57,7 @@
       "id": 3,
       "links": [
         {
-          "label": "goes to 4",
+          "label": "THAT'S UNREASONABLE",
           "dest": 4
         }
       ]
@@ -66,27 +66,22 @@
       "id": 4,
       "links": [
         {
-          "label": "goes to 2",
+          "label": "I SAID, NO GLIBS!",
           "dest": 2
         },
         {
-          "label": "goes to 3",
+          "label": "GLOBS FOREVER",
           "dest": 3
         },
         {
-          "label": "goes to 5",
+          "label": "Does the pork strike back?",
           "dest": 5
         }
       ]
     },
     {
       "id": 5,
-      "links": [
-        {
-          "label": "goes to 1",
-          "dest": 1
-        }
-      ]
+      "links": []
     }
   ]
 }
